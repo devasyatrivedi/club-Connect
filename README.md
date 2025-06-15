@@ -1,6 +1,4 @@
 # club-Connect
-\documentclass[a4paper,12pt]{article}
-
 % Setting up the geometry for the document
 \usepackage[margin=1in]{geometry}
 
