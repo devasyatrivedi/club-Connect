@@ -1,3 +1,53 @@
+# 📱 ClubConnect - Social Platform for Campus Clubs
+
+**ClubConnect** is a social media platform designed to centralize and digitize student club activities in colleges. It enables students to discover events, engage socially, and track participation, while offering clubs tools to manage content, events, and analytics.
+
+---
+
+## 🚀 Features
+
+### 🎓 For Students:
+- Browse and follow clubs
+- Register and participate in events
+- Like, comment, and vote in polls
+- View engagement leaderboards
+- Receive real-time notifications
+
+### 🏛️ For Clubs:
+- Profile and content management
+- Event creation, tracking, and analytics
+- Participant management (CSV/PDF exports)
+- Engagement metrics dashboard
+
+---
+
+## 📐 Project Architecture
+
+- **Frontend**: Responsive Web UI (HTML/CSS/JavaScript)
+- **Backend**: Node.js + Express.js
+- **Database**: MongoDB (with Mongoose)
+- **Notifications**: Real-time (Socket.IO or Firebase)
+- **Cloud**: AWS or Firebase Hosting & Storage
+
+---
+
+## 📊 Flowchart Overview (Mermaid)
+
+```mermaid
+flowchart TD
+    A[Start] --> B[Planning Phase]
+    B --> C[Design Phase]
+    C --> D[Development Phase]
+    D --> E[Testing Phase]
+    E --> F[Deployment Phase]
+    F --> G[Maintenance Phase]
+    G --> H[End]
+
+
+
+
+
+
 ---
 
 # 📄 Content Breakdown: ClubConnect Development Flowchart
