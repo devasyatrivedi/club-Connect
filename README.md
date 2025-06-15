@@ -6,7 +6,7 @@ This section provides a summarized overview of each part of the development flow
 
 ---
 
-## ✅ Planning Phase([https://github.com/devasyatrivedi/club-Connect/main/Planning_Phase.md]
+## ✅ Planning Phase([https://github.com/devasyatrivedi/club-Connect/main/Planning_Phase.md])
 
 **Objectives**
 - Centralize club operations (replace WhatsApp, Instagram, Google Forms).
