@@ -33,21 +33,6 @@
 
 ## 📊 Flowchart Overview (Mermaid)
 
-```mermaid
-flowchart TD
-    A[Start] --> B[Planning Phase]
-    B --> C[Design Phase]
-    C --> D[Development Phase]
-    D --> E[Testing Phase]
-    E --> F[Deployment Phase]
-    F --> G[Maintenance Phase]
-    G --> H[End]
-
-
-
-
-
-
 ---
 
 # 📄 Content Breakdown: ClubConnect Development Flowchart
@@ -161,3 +146,12 @@ This section provides a summarized overview of each part of the development flow
 ---
 
 
+```mermaid
+flowchart TD
+    A[Start] --> B[Planning Phase]
+    B --> C[Design Phase]
+    C --> D[Development Phase]
+    D --> E[Testing Phase]
+    E --> F[Deployment Phase]
+    F --> G[Maintenance Phase]
+    G --> H[End]
